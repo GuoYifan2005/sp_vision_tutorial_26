@@ -1,4 +1,0 @@
-/home/gyf/文档/sp_vision_tutorial_26-main/lecture2/build/CMakeFiles/cpp_basics.dir
-/home/gyf/文档/sp_vision_tutorial_26-main/lecture2/build/CMakeFiles/split_channels.dir
-/home/gyf/文档/sp_vision_tutorial_26-main/lecture2/build/CMakeFiles/edit_cache.dir
-/home/gyf/文档/sp_vision_tutorial_26-main/lecture2/build/CMakeFiles/rebuild_cache.dir

@@ -3,7 +3,7 @@
 
 #include <list>
 #include <opencv2/opencv.hpp>
-#include <openvino/openvino.hpp>
+// #include <openvino/openvino.hpp>
 #include <string>
 #include <vector>
 
@@ -30,8 +30,8 @@ private:
   const float score_threshold_ = 0.7;
   double min_confidence_, binary_threshold_;
 
-  ov::Core core_;
-  ov::CompiledModel compiled_model_;
+  // ov::Core core_;
+  // ov::CompiledModel compiled_model_;
 
   cv::Rect roi_;
   cv::Point2f offset_;

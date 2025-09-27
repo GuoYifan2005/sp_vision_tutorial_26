@@ -5,7 +5,6 @@
 // 包含需要的头文件
 #include "hikrobot/include/MvCameraControl.h"
 #include <opencv2/opencv.hpp>
-
 // 相机类
 class myCamera {
 public:

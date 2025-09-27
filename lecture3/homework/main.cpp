@@ -3,6 +3,7 @@
 #include "opencv2/opencv.hpp"
 #include "tools/img_tools.hpp"
 #include <fcntl.h>
+#include "armor.hpp"
 
 int main()
 {

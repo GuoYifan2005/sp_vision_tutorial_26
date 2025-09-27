@@ -133,9 +133,9 @@ tools/clean: tools/CMakeFiles/tools.dir/clean
 # Target rules for target CMakeFiles/main.dir
 
 # All Build rule for target.
+CMakeFiles/main.dir/all: tools/CMakeFiles/tools.dir/all
 CMakeFiles/main.dir/all: io/CMakeFiles/io.dir/all
 CMakeFiles/main.dir/all: tasks/CMakeFiles/auto_aim.dir/all
-CMakeFiles/main.dir/all: tools/CMakeFiles/tools.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gyf/文档/sp_vision_tutorial_26/lecture3/homework/CMakeFiles --progress-num=8,9 "Built target main"

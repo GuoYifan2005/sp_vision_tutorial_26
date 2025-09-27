@@ -6,3 +6,4 @@
 std::tuple<double, int, int> resizeAndPad(const cv::Mat &input, cv::Mat &output, int size = 640);
 
 #endif
+//

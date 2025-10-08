@@ -1,0 +1,13 @@
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/CMakeFiles/main.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/CMakeFiles/video.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/CMakeFiles/edit_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/CMakeFiles/rebuild_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/io/CMakeFiles/io.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/io/CMakeFiles/edit_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/io/CMakeFiles/rebuild_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/tasks/CMakeFiles/auto_buff.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/tasks/CMakeFiles/edit_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/tasks/CMakeFiles/rebuild_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/tools/CMakeFiles/tools.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/tools/CMakeFiles/edit_cache.dir
+/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/build/tools/CMakeFiles/rebuild_cache.dir

@@ -5,7 +5,7 @@
 #include "tools/plotter.hpp"
 int main()
 {
-    cv::VideoCapture cap("assets/test.avi"); 
+    cv::VideoCapture cap("/home/gyf/桌面/sp_vision_tutorial_26/lecture4/homework/assets/test.avi"); 
     
     if (!cap.isOpened()) {
         std::cerr << "无法打开视频文件!" << std::endl;
